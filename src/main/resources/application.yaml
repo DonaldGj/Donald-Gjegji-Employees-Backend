@@ -1,0 +1,7 @@
+server:
+  port: 9091
+spring:
+  servlet:
+    multipart:
+      location: 'C:\Users\Public'
+
